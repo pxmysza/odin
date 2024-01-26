@@ -1,1 +1,1 @@
-# rps
+# The Odin project
